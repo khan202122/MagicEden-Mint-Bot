@@ -40,6 +40,7 @@ You can **launch multiple instances of the bot to bypass minting limit / wallet*
 3. Install all python module
 
    windows: `pip install selenium requests webdriver-manager`
+   
    mac: `pip3 install selenium requests webdriver-manager`
 
 4. Replace Phantom Passphrase and password in `config.json`
