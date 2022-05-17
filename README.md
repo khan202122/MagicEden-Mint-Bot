@@ -30,7 +30,7 @@ You can **launch multiple instances of the bot to bypass minting limit / wallet*
 
 1. Clone the repository / Download zip file
 
-    `git clone [https://github.com/JacobSterns/Solana-mint.git](https://github.com/SOLBRO999/MagicEden-Mint-Bot.git)`
+    `git clone https://github.com/SOLBRO999/MagicEden-Mint-Bot.git`
     
 
 2. Be sure you have installed Python correctly, [here is a link to download](https://www.python.org/downloads/)
