@@ -58,3 +58,4 @@ You can **launch multiple instances of the bot to bypass minting limit / wallet*
     windows : `python main.py`
 
     mac : `python3 main.py`
+    mac
